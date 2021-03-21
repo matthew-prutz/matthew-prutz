@@ -6,6 +6,12 @@
 
 新しい冒険が始まる！
 
+(1) VR/AR in Education
+
+(2) Leading technologies shaping the future of Japan and the world.
+
+
+
 <!---
 matthew-prutz/matthew-prutz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
