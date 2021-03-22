@@ -7,6 +7,10 @@
 新しい冒険が始まる！
 
 (1) VR/AR in Education
+      Reading Jumble
+      Reading KanjiKentei Textbook Helper
+      Reading Utility Bills (English and Japanese)
+      Handwriting Teacher
 
 (2) Leading technologies shaping the future of Japan and the world.
 
