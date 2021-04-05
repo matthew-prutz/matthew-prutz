@@ -11,6 +11,7 @@
       * Reading KanjiKentei Textbook Helper  
       * Reading Utility Bills (English and Japanese)  
       * Handwriting Teacher  
+      * Landmark Recognizer (Tourist Helper)
 
 (2) Leading technologies shaping the future of Japan and the world.
 
