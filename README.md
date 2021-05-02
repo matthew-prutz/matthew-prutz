@@ -16,8 +16,9 @@
 (2) Leading technologies shaping the future of Japan and the world.
 
 (3) Hobbies; it's always fun to take a breath and enjoy learning something new!
-
-
+     iSakura Chrome Extension
+     Subtitle CM Checker!
+     
 <!---
 matthew-prutz/matthew-prutz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
