@@ -15,6 +15,7 @@
 
 (2) Leading technologies shaping the future of Japan and the world.
 
+(3) Hobbies; it's always fun to take a breath and enjoy learning something new!
 
 
 <!---
