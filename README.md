@@ -2,4 +2,11 @@
 
 
 
-Current Projects:d
+Current Projects:
+
+
+TutorVision
+
+Database Project
+
+AWS IoT Data Analysis Project
